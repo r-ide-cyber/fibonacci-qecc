@@ -1,0 +1,20 @@
+{
+  "source_project": "/Users/ideryuito/Documents/Codex/2026-10-06/files-pasted-by-the-user-fibonacci/outputs/fibonacci_recoverability_kl",
+  "reused_files": {
+    "recoverability_kl.py": {
+      "source": "/Users/ideryuito/Documents/Codex/2026-10-06/files-pasted-by-the-user-fibonacci/outputs/fibonacci_recoverability_kl/recoverability_kl.py",
+      "sha256": "a0d592e6b01a7eee67d70679bfdedfb918dd58a61ee03b76accd41fe5ad9c0b1",
+      "unchanged": true
+    },
+    "legacy_functions.py": {
+      "source": "/Users/ideryuito/Documents/Codex/2026-10-06/files-pasted-by-the-user-fibonacci/outputs/fibonacci_recoverability_kl/legacy_functions.py",
+      "sha256": "2eebd80bde75a6ef61526006fcfe00ef82dbc800362427d00453d6afa769b17b",
+      "unchanged": true
+    }
+  },
+  "paper": {
+    "url": "https://arxiv.org/abs/2311.13040v2",
+    "reference": "Appendix E.1, Eq.(E1); E.3.b Proposition 3"
+  },
+  "original_request": "USER_REQUEST.md"
+}

@@ -1,0 +1,43 @@
+{
+  "SEED_0": "000111",
+  "SEED_1": "010101",
+  "PAIR_ID": "L06_W03_P0001",
+  "LOGICAL_PAIRS": null,
+  "INFLATION_LIST": [
+    0,
+    1,
+    2,
+    4,
+    6
+  ],
+  "ERASURE_DOMAIN_MODE": "window",
+  "WINDOW_SIZE_LIST": [
+    6,
+    20
+  ],
+  "ERASURE_SIZE_LIST": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "ERASURE_TYPE_LIST": [
+    "contiguous",
+    "arbitrary"
+  ],
+  "MAX_EXACT_PATTERNS": 100,
+  "NUM_RANDOM_SAMPLES": 100,
+  "RANDOM_SEED": 42,
+  "MAX_DENSE_ERASURE_QUBITS": 12,
+  "MAX_MATRIX_DIMENSION": 1024,
+  "MAX_DETAIL_ROWS": 1000000,
+  "EIGENVALUE_TOL": 1e-12,
+  "LEAKAGE_TOL": 1e-10,
+  "BENCHMARK_PATTERNS": 100,
+  "RUN_FULL_ANALYSIS": true,
+  "SAVE_RESULTS": true,
+  "SAVE_FIGURES": true,
+  "OUTPUT_DIR": "example_results"
+}

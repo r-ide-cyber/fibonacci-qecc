@@ -1,0 +1,58 @@
+{
+  "sources": [
+    {
+      "source": "/Users/ideryuito/Documents/Codex/2026-10-06/files-pasted-by-the-user-fibonacci/outputs/fibonacci_recoverability_kl/recoverability_kl.py",
+      "copied_as": "recoverability_kl.py",
+      "sha256": "a0d592e6b01a7eee67d70679bfdedfb918dd58a61ee03b76accd41fe5ad9c0b1"
+    },
+    {
+      "source": "/Users/ideryuito/Documents/Codex/2026-10-06/files-pasted-by-the-user-fibonacci/outputs/fibonacci_recoverability_kl/legacy_functions.py",
+      "copied_as": "legacy_functions.py",
+      "sha256": "2eebd80bde75a6ef61526006fcfe00ef82dbc800362427d00453d6afa769b17b"
+    },
+    {
+      "source": "/Users/ideryuito/Documents/Codex/2026-10-06/files-pasted-by-the-user-fibonacci/outputs/fibonacci_recoverability_kl/reference/seed_variation_config.json",
+      "copied_as": "seed_variation_config.json",
+      "sha256": "5d84fa047fde49379cf1a0c2f91ffa2f2863a4c061e292463a94b1a8eaba1180"
+    },
+    {
+      "source": "/Users/ideryuito/Documents/Codex/2026-10-06/files-pasted-by-the-user-fibonacci/outputs/fibonacci_recoverability_kl/results/recoverability_kl_summary.csv",
+      "copied_as": "prior_recoverability_kl_summary.csv",
+      "sha256": "ff13b3ea71e4ce383433cea6a7bf7949b34ca582009379c69d2a6c3c3bef34f2"
+    },
+    {
+      "source": "/Users/ideryuito/Documents/Codex/2026-10-06/files-pasted-by-the-user-fibonacci/outputs/fibonacci_recoverability_kl/results/run_metadata.json",
+      "copied_as": "prior_kl_metadata.json",
+      "sha256": "12fcbec32737bbdb279a410e0bced8473033657d639ddfc960316efd3143ebe1"
+    },
+    {
+      "source": "/Users/ideryuito/Documents/Codex/2026-10-07/files-pasted-by-the-user-fibonacci/outputs/fibonacci_leakage_core.py",
+      "copied_as": "fibonacci_leakage_core.py",
+      "sha256": "faf93da011c41f697f63ab7de12552d5156b66b20316b7db075c31ee75645bcb"
+    },
+    {
+      "source": "/Users/ideryuito/Documents/Codex/2026-10-07/files-pasted-by-the-user-fibonacci/outputs/example_results/logical_leakage_summary.csv",
+      "copied_as": "prior_logical_leakage_summary.csv",
+      "sha256": "b77d006537cf8e71df41c7f3f35815052b414d7bee4f9a6681afcf8e93a62987"
+    },
+    {
+      "source": "/Users/ideryuito/Documents/Codex/2026-10-07/files-pasted-by-the-user-fibonacci/outputs/example_results/notebook_config.json",
+      "copied_as": "prior_leakage_config.json",
+      "sha256": "afa1556c50563afbd78456de1f2729fc9d5fdf46f15411e24c211e9eaea2748a"
+    },
+    {
+      "source": "/Users/ideryuito/Documents/Codex/2026-07-27/jupyterlab-knill-laflamme-1-jupyter-notebook/outputs/fibonacci_seed_variation/data/seed_pairs.csv",
+      "copied_as": "seed_pairs.csv",
+      "sha256": "913e1b1199cdabc15397ceb08b493a50b6cda20920a5bd494119d63be0831b6a"
+    }
+  ],
+  "substitution": {
+    "0": "1",
+    "1": "10"
+  },
+  "note": "Legacy source files copied unmodified for reproducible regression. New core retains definitions but optimizes collision geometry.",
+  "sources_online": [
+    "https://arxiv.org/html/2311.13040v2#A5",
+    "https://doi.org/10.1103/PhysRevA.55.900"
+  ]
+}

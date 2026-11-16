@@ -1,0 +1,24 @@
+{
+  "unchanged_sources": [
+    {
+      "file": "legacy_functions.py",
+      "source_path": "/Users/ideryuito/Documents/Codex/2026-10-06/files-pasted-by-the-user-fibonacci/outputs/fibonacci_recoverability_kl/legacy_functions.py",
+      "sha256": "2eebd80bde75a6ef61526006fcfe00ef82dbc800362427d00453d6afa769b17b",
+      "byte_identical": true
+    },
+    {
+      "file": "recoverability_kl.py",
+      "source_path": "/Users/ideryuito/Documents/Codex/2026-10-06/files-pasted-by-the-user-fibonacci/outputs/fibonacci_recoverability_kl/recoverability_kl.py",
+      "sha256": "a0d592e6b01a7eee67d70679bfdedfb918dd58a61ee03b76accd41fe5ad9c0b1",
+      "byte_identical": true
+    },
+    {
+      "file": "theory.py",
+      "source_path": "/Users/ideryuito/Documents/Codex/2026-10-06/files-pasted-by-the-user-fibonacci-3/outputs/fibonacci_finite_size_scaling/theory.py",
+      "sha256": "d09e8c0692902b9cfb8002681b85e7e8967e521e247662e0cc9727165dc527cb",
+      "byte_identical": true
+    }
+  ],
+  "paper_url": "https://arxiv.org/html/2311.13040v2",
+  "sampling_reference": "fibonacci_finite_size_scaling / recoverability_kl.generate_erasure_patterns"
+}

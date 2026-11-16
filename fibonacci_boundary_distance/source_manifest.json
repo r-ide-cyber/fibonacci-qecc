@@ -1,0 +1,21 @@
+{
+  "recoverability_kl.py": "/Users/ideryuito/Documents/Codex/2026-10-06/files-pasted-by-the-user-fibonacci/outputs/fibonacci_recoverability_kl/recoverability_kl.py",
+  "legacy_functions.py": "/Users/ideryuito/Documents/Codex/2026-10-06/files-pasted-by-the-user-fibonacci/outputs/fibonacci_recoverability_kl/legacy_functions.py",
+  "seed_pair_reference": "/Users/ideryuito/Documents/Codex/2026-10-06/files-pasted-by-the-user-fibonacci-3/outputs/fibonacci_finite_size_scaling/reference/seed_pairs.jsonl",
+  "prior_seed_pair": {
+    "pair_id": "L06_W03_P0001",
+    "seed_0": "000111",
+    "seed_1": "010101"
+  },
+  "definition_lines": {
+    "inflation": "recoverability_kl.py:25-26",
+    "seed_validation": "recoverability_kl.py:41-55",
+    "classical_recoverability": "recoverability_kl.py:101-112,166-178",
+    "KL_integer_counts": "recoverability_kl.py:124-178",
+    "ring_logical_states": "recoverability_kl.py:195-214"
+  },
+  "bundled_sha256": {
+    "recoverability_kl.py": "a0d592e6b01a7eee67d70679bfdedfb918dd58a61ee03b76accd41fe5ad9c0b1",
+    "legacy_functions.py": "2eebd80bde75a6ef61526006fcfe00ef82dbc800362427d00453d6afa769b17b"
+  }
+}

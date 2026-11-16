@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "seed_search": {
+    "seed_lengths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "max_seed_length": 9,
+    "number_of_ones_rule": "floor_half",
+    "number_of_ones_overrides": {},
+    "max_pairs_per_group": null,
+    "orthogonality_check_depths": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "include_periodic_boundary_swap": true
+  },
+  "fibonacci": {
+    "substitution": {
+      "0": "1",
+      "1": "10"
+    },
+    "inflation_depths": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "max_num_sites": 200
+  },
+  "evaluation": {
+    "tolerance": 1e-12,
+    "contiguous": {
+      "enabled": true,
+      "max_erasure_length": 15,
+      "stop_after_first_failure": false,
+      "verify_translation_invariance": true
+    },
+    "arbitrary": {
+      "enabled": true,
+      "inflation_depths": [
+        3
+      ],
+      "erasure_lengths": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "max_exact_rotation_classes": 5000,
+      "max_compositions_for_exact": 200000,
+      "sample_size": 2000,
+      "random_seed": 42
+    },
+    "plot_selection": {
+      "target_n": 32,
+      "pair_ids": [],
+      "lines_per_figure": 6,
+      "show_pair_capacity_graph": true,
+      "show_contiguous_residual_graphs": true,
+      "show_arbitrary_success_graphs": true
+    }
+  },
+  "paths": {
+    "data_directory": "data",
+    "results_directory": "results"
+  }
+}

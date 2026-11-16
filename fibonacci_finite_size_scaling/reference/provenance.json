@@ -1,0 +1,56 @@
+{
+  "source_project": "/Users/ideryuito/Documents/Codex/2026-07-27/jupyterlab-knill-laflamme-1-jupyter-notebook/outputs/fibonacci_seed_variation",
+  "selection": {
+    "pair_id": "L06_W03_P0001",
+    "baseline_depth": 3,
+    "arbitrary_m": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "sources": [
+    {
+      "path": "/Users/ideryuito/Documents/Codex/2026-07-27/jupyterlab-knill-laflamme-1-jupyter-notebook/outputs/fibonacci_seed_variation/seed_variation_config.json",
+      "sha256": "5d84fa047fde49379cf1a0c2f91ffa2f2863a4c061e292463a94b1a8eaba1180"
+    },
+    {
+      "path": "/Users/ideryuito/Documents/Codex/2026-07-27/jupyterlab-knill-laflamme-1-jupyter-notebook/outputs/fibonacci_seed_variation/data/seed_pairs.jsonl",
+      "sha256": "2a1e9f3741cf6380e31b95a5d9b964c9e3f3b579c65e87939746b265c39962b4"
+    },
+    {
+      "path": "/Users/ideryuito/Documents/Codex/2026-07-27/jupyterlab-knill-laflamme-1-jupyter-notebook/outputs/fibonacci_seed_variation/data/code_catalog.jsonl.gz",
+      "sha256": "cd5a709672fb7150931b6e33c428e1e0164db096d8887e02d36def332b132243"
+    },
+    {
+      "path": "/Users/ideryuito/Documents/Codex/2026-07-27/jupyterlab-knill-laflamme-1-jupyter-notebook/outputs/fibonacci_seed_variation/data/contiguous_kl_results.jsonl.gz",
+      "sha256": "466dd6ed5ac6bdfc30b053800404e9f9565b58abd051405f4b54a250610651e8"
+    },
+    {
+      "path": "/Users/ideryuito/Documents/Codex/2026-07-27/jupyterlab-knill-laflamme-1-jupyter-notebook/outputs/fibonacci_seed_variation/data/arbitrary_kl_results.jsonl.gz",
+      "sha256": "77a41d7e83b55ce941f7b6dbc240285301861a446fcbbfe649aa5d08c25afbc8"
+    },
+    {
+      "path": "/Users/ideryuito/Documents/Codex/2026-07-27/jupyterlab-knill-laflamme-1-jupyter-notebook/outputs/fibonacci_seed_variation/results/arbitrary_success_by_code.csv",
+      "sha256": "0a2159454e2bd3eb073b21f55bcb74a5dd2cb125e439f7aaf3133d8777ef1548"
+    },
+    {
+      "path": "/Users/ideryuito/Documents/Codex/2026-07-27/jupyterlab-knill-laflamme-1-jupyter-notebook/outputs/fibonacci_seed_variation/01_enumerate_seed_pairs.ipynb",
+      "sha256": "0d3ca15725653814bcfdaaa31d4047e1364430752441eed4f8b99b598dfc58a6"
+    },
+    {
+      "path": "/Users/ideryuito/Documents/Codex/2026-07-27/jupyterlab-knill-laflamme-1-jupyter-notebook/outputs/fibonacci_seed_variation/03_compute_contiguous_kl.ipynb",
+      "sha256": "739dc078b55da8c5f8cb63b7c8fa85eb0a562cc3c020595beb35bec95721f483"
+    }
+  ],
+  "bundled_hashes": {
+    "arbitrary_success_by_code.csv": "0a2159454e2bd3eb073b21f55bcb74a5dd2cb125e439f7aaf3133d8777ef1548",
+    "arbitrary_kl_results.jsonl": "1d582ca6e92b190d1f219ff9aab73050e480b3c54b7cf5498cb7e349c545132c",
+    "contiguous_kl_results.jsonl": "d29c94a100017befd6ca055463c87bab22176a5b6eb2719e37e64a8d692837ee",
+    "seed_variation_config.json": "5d84fa047fde49379cf1a0c2f91ffa2f2863a4c061e292463a94b1a8eaba1180",
+    "code_catalog.jsonl": "c77611b379f94d3530cbd46e9cf8ec6acc0502ef646e0ae7706562ce9d125b75",
+    "seed_pairs.jsonl": "2a1e9f3741cf6380e31b95a5d9b964c9e3f3b579c65e87939746b265c39962b4"
+  },
+  "legacy_functions_sha256": "2eebd80bde75a6ef61526006fcfe00ef82dbc800362427d00453d6afa769b17b"
+}

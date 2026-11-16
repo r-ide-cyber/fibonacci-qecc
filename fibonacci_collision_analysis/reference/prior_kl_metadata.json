@@ -1,0 +1,80 @@
+{
+  "seed_length": 6,
+  "k0": 3,
+  "k1": 3,
+  "adjacent_swap_valid": true,
+  "seed_0": "000111",
+  "seed_1": "010101",
+  "inflation_n": 3,
+  "N": 24,
+  "orbit_size_0": 24,
+  "orbit_size_1": 8,
+  "pair_id": "L06_W03_P0001",
+  "manual_mode": false,
+  "erasure_sizes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "enumeration_mode": "auto",
+  "max_exact_patterns": 100000,
+  "num_random_samples": 10000,
+  "random_seed": 42,
+  "baseline_verified": true,
+  "baseline_selection": {
+    "pair_id": "L06_W03_P0001",
+    "baseline_depth": 3,
+    "arbitrary_m": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "source_project": "/Users/ideryuito/Documents/Codex/2026-07-27/jupyterlab-knill-laflamme-1-jupyter-notebook/outputs/fibonacci_seed_variation",
+  "tests": {
+    "tests_run": 17,
+    "failures": 0,
+    "errors": 0
+  },
+  "python_version": "3.12.14",
+  "sampling": "independent uniform subsets with replacement; duplicate trials retained",
+  "self_collision_convention": "unordered distinct pairs; cross = O0 x O1",
+  "exact_KL": "integer counts normalized by distinct orbit sizes",
+  "site_index": "0-based from left; periodic boundary",
+  "implementation_sha256": {
+    "recoverability_kl.py": "a0d592e6b01a7eee67d70679bfdedfb918dd58a61ee03b76accd41fe5ad9c0b1",
+    "legacy_functions.py": "2eebd80bde75a6ef61526006fcfe00ef82dbc800362427d00453d6afa769b17b",
+    "test_recoverability_kl.py": "6f9792e3ab51f8b8bd8523806ab09ccb7141940017762a7cfd429e2114d30729"
+  },
+  "package_versions": [
+    "numpy==2.3.5",
+    "pandas==2.2.3",
+    "matplotlib==3.11.2",
+    "nbformat==5.11.1",
+    "nbclient==0.11.0",
+    "ipykernel==7.4.0"
+  ]
+}
